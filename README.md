@@ -1,2 +1,2 @@
 # Main
-Main documents for Liberty Speaks organization
+Main documents for Liberty Speaks organization   .
